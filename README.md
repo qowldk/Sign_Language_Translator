@@ -34,3 +34,13 @@
 ### 지문자 인식
 
 ![지문자 인식](https://github.com/qowldk/Sign_Language_Translator/blob/main/%EC%A7%80%EB%AC%B8%EC%9E%90%20%EC%9D%B8%EC%8B%9D.png)
+
+
+### 동적 수어 인식 
+
+![동적 수어 인식](https://github.com/qowldk/Sign_Language_Translator/blob/main/%EB%8F%99%EC%A0%81%20%EC%88%98%EC%96%B4%20%EC%9D%B8%EC%8B%9D.png)
+
+
+### ChatGPT API를 사용한 문장 생성 서비스
+
+![ChatGPT API를 사용한 문장 생성 서비스](https://github.com/qowldk/Sign_Language_Translator/blob/main/gpt%20api.png)
