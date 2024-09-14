@@ -44,3 +44,7 @@
 ### ChatGPT API를 사용한 문장 생성 서비스
 
 ![ChatGPT API를 사용한 문장 생성 서비스](https://github.com/qowldk/Sign_Language_Translator/blob/main/gpt%20api.png)
+
+
+## ⏲️ 개발 기간
+2024.02.02 ~ 2024.06.26
